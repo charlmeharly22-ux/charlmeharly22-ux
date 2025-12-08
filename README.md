@@ -13,6 +13,15 @@
   </a>
 </p>
 
+<!-- Cyberpunk Coding Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&color=00F3FF&center=true&vCenter=true&width=600&height=80&lines=Building+Responsive+Web+Apps...;Designing+Interactive+Dashboards...;Harly+Is+Crafting+Custom+Solutions...;System+Online+⚡+Ready+for+Development" alt="Cyberpunk Animation">
+</p>
+
+<!-- Cyberpunk Developer Image -->
+<p align="center">
+  <img src="Hacker ciber.jpg" alt="cyberpunk-developer" width="600">
+</p>
 
 <!-- Jeu Snake -->
 <picture>
